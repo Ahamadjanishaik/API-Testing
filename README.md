@@ -1,6 +1,4 @@
 
-![Logo](https://drive.google.com/file/d/1m3uJIl_z7M22vaG29jcN8zCB5nFvhXwj/view?usp=sharing)
-
 # Post Hook API Testing
 
 
@@ -44,10 +42,6 @@ Designed for ease of use, this framework allows developers and testers to valida
 ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white&style=flat)
 
 
-
-
-
-
 ## Application Under Test
 AUT : https://app.beeceptor.com/mock-server/posthook-api
 
@@ -62,7 +56,7 @@ Ensure you have installed Java on your system
 
 **Step-1 :** Download & Install any Code Editor. I have installed Spring Tool Suite.
 
-**Step-2 :** Install TestNG and Cucumber Frameworks in the Editor.
+**Step-2 :** Install TestNG and RestAssured Frameworks in the Editor.
 
 **Step-3 :** Download the Project & Open the Project in Spring Tool Suite or Any Code Editor.
 
@@ -78,8 +72,6 @@ Ensure you have installed Java on your system
   - Open the `ExtentReport.html` file in a browser to view the results.
   - **Log Reports:**
   - After the tests execution, a detailed report is logged in the `test-output` folder.
-
-
 
 
 
