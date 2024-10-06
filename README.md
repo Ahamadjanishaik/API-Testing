@@ -45,6 +45,20 @@ Designed for ease of use, this framework allows developers and testers to valida
 ## Application Under Test
 AUT : https://app.beeceptor.com/mock-server/posthook-api
 
+API_Testing/
+├─ src/
+│  ├─ main/java
+│  ├─ test/java
+|     ├─ api_testing_post_hook/tests
+│  │  ├─ generics/
+│  │  │  └─ Base.java
+│  │  ├─ tests/
+│  │  │  └─ Tests.java
+│  ├─ test/resources
+│     └─ logReport
+│  ├─ extentreports.xml
+├─ pom.xml
+
 
 ## Selenium Installation & Getting Started
 
