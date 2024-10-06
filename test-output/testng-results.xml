@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-02T16:36:43 IST" name="Default suite" finished-at="2024-10-02T16:36:52 IST" duration-ms="8885">
+    <groups>
+    </groups>
+    <test started-at="2024-10-02T16:36:43 IST" name="Default test" finished-at="2024-10-02T16:36:52 IST" duration-ms="8885">
+      <class name="post_hook_Api_Testing.Post_Hook_API_Testing">
+        <test-method is-config="true" signature="setup()[pri:0, instance:post_hook_Api_Testing.Post_Hook_API_Testing@41330d4f]" started-at="2024-10-02T16:36:43 IST" name="setup" finished-at="2024-10-02T16:36:43 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="schedule()[pri:1, instance:post_hook_Api_Testing.Post_Hook_API_Testing@41330d4f]" started-at="2024-10-02T16:36:43 IST" name="schedule" finished-at="2024-10-02T16:36:47 IST" duration-ms="4029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- schedule -->
+        <test-method signature="getHooks()[pri:2, instance:post_hook_Api_Testing.Post_Hook_API_Testing@41330d4f]" started-at="2024-10-02T16:36:47 IST" name="getHooks" finished-at="2024-10-02T16:36:48 IST" duration-ms="1125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHooks -->
+        <test-method signature="getHookBy_ID()[pri:3, instance:post_hook_Api_Testing.Post_Hook_API_Testing@41330d4f]" started-at="2024-10-02T16:36:48 IST" name="getHookBy_ID" finished-at="2024-10-02T16:36:49 IST" duration-ms="974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHookBy_ID -->
+        <test-method signature="updateHook()[pri:4, instance:post_hook_Api_Testing.Post_Hook_API_Testing@41330d4f]" started-at="2024-10-02T16:36:49 IST" name="updateHook" finished-at="2024-10-02T16:36:50 IST" duration-ms="884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateHook -->
+        <test-method signature="deleteHook()[pri:5, instance:post_hook_Api_Testing.Post_Hook_API_Testing@41330d4f]" started-at="2024-10-02T16:36:50 IST" name="deleteHook" finished-at="2024-10-02T16:36:51 IST" duration-ms="924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteHook -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:post_hook_Api_Testing.Post_Hook_API_Testing@41330d4f]" started-at="2024-10-02T16:36:51 IST" name="tearDown" finished-at="2024-10-02T16:36:52 IST" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- post_hook_Api_Testing.Post_Hook_API_Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
